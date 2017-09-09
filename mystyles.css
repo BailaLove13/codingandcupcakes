@@ -1,7 +1,6 @@
 html, body {
-	background: #f5c9c9;
+	background: #33ccff;
 	font-family: 'Lato', sans-serif;
-	color: #6C6B6B;
 	margin: 0px;
 	padding: 0px;
 	overflow-x: hidden;
@@ -10,10 +9,12 @@ html, body {
 h1 {
 	font-weight: 900;
 	text-align: center;
+	color: #4d004d;
 }
 
 h2, h3	{
 	font-weight: 700;
+	color: #4d004d;
 }
 
 p {
